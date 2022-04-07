@@ -1,0 +1,16 @@
+References:
+https://dotnettutorials.net/course/dot-net-design-patterns/
+
+What is the design pattern?
+Design patterns are nothing but documented and tested solutions to the recurring problem.
+Design patterns are used to solve the problem of object generation and integration.
+Do not overdo design pattern, remember that design patterns are for projects and projects are not for design pattern.
+
+Types of design pattern
+Creational: Object creation and initialization
+Creational design pattern helps us to centralise the object creation logic and depending upon the condition it will create and initialise the appropriate object and returns that object
+
+Structural: Structural changes of a class and interface, relation between classes
+Structural design pattern helps us in maintaining the structure change of a project. For example: Customer is dependent on a Product. There is a change in the Product class, so now the structural design pattern helps in keeping the separation of Customer and Product class. 
+
+Behavioural: Communications between objects
